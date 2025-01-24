@@ -1,4 +1,4 @@
-module database_operations
+module github.com/tomislavmiksa/database_operations
 
 go 1.23.5
 

@@ -1,7 +1,7 @@
 package main
 
 /*
-go mod init database_operations
+go mod init github.com/tomislavmiksa/database_operations
 go get gorm.io/gorm
 go get gorm.io/driver/postgres
 go mod tidy

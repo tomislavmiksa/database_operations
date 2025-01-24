@@ -1,4 +1,4 @@
-module database_operations/postgressdb
+module github.com/tomislavmiksa/database_operations/postgresdb
 
 go 1.23.5
 

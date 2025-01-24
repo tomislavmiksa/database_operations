@@ -1,7 +1,7 @@
 package postgressdb
 
 /*
-go mod init database_operations/postgressdb
+go mod init github.com/tomislavmiksa/database_operations/postgresdb
 go get gorm.io/gorm
 go get gorm.io/driver/postgres
 go mod tidy
